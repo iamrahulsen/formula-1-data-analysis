@@ -1,2 +1,2 @@
-# formula-1-data-analysis
-Analysis of Formula 1 race data.
+# Formula 1 Data Analysis
+Handled data of multiple formats and developed a solution architecture to transform and analyzing the data with spark unified databricks platform in Azure and came up with insights like reports, analysis and visualization, scheduling pipelines along with other features like deleting individual data, time travelling through the data and getting back to the previous version.
